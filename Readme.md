@@ -1,4 +1,3 @@
-## PySpark
 ![png](Basics/Data/pyspark.jpg)
 
 
@@ -15,11 +14,19 @@ Demo Analysis:
  2. [Bigfoot Sightings](https://github.com/cliferraren/PySpark/blob/master/Basics/Bigfoot_Sightings_Analysis.ipynb)
 
 
-I also learn to wrangle this data and build a whole machine learning pipeline to predict Yelp Reviews. This is a introductory Spark in Python codes and to be ready to dive into the world of high performance machine learning! 
+I also learn to wrangle with data and build a whole machine learning pipeline to predict Yelp Reviews. This is a introductory Spark in Python codes and to be ready to dive into the world of high performance machine learning! 
 
 [NLP:](https://github.com/cliferraren/PySpark/tree/master/NLP)
- 1. [Simple Python library](https://pypi.python.org/pypi/citipy)
- 2. [OpenWeatherMap API](https://openweathermap.org/api)
- 3. Use the Matplotlib and Seaborn libraries
+ 1. [Count Words Through Tokenization](https://github.com/cliferraren/PySpark/blob/master/NLP/Count_Words.ipynb)
+ 2. [Count Vowels Through Tokenization](https://github.com/cliferraren/PySpark/blob/master/NLP/Count_Vowel.ipynb)
+ 1. [Stop Words](https://github.com/cliferraren/PySpark/blob/master/NLP/FoodReviews_StopWords.ipynb)
+ 2. [NGram](https://github.com/cliferraren/PySpark/blob/master/NLP/NLP_NGram_SecondPart.ipynb)
+ 1. [Hashing - Airline Data](https://github.com/cliferraren/PySpark/blob/master/NLP/Airline_HashingDemo.ipynb)
+ 2. [CountVector Implementation - Airline Data](https://github.com/cliferraren/PySpark/blob/master/NLP/NLP_Airlines_Using_CountVector.ipynb)
+
+Demo NLP using Naive Bayes:
+ 1. [Spam or Ham](https://github.com/cliferraren/PySpark/blob/master/NLP/Proj%20-%20Spam.ipynb)
+ 2. [Yelp Reviews](https://github.com/cliferraren/PySpark/blob/master/NLP/Proj%20-%20Yelp%20Reviews.ipynb)
+ 
  
 
