@@ -1,7 +1,7 @@
 ![png](Basics/Data/pyspark.jpg)
 
 
-Here, we use Spark and Python together to perform data analysis. Spark is a tool for doing parallel computation with large datasets and it integrates well with Python. PySpark is the Python package that makes the magic happen. I used this package to work with data starting from the basics.
+Spark is a tool for doing parallel computation with large datasets and it integrates well with Python. PySpark is the Python package that makes the magic happen. I used this package to work with data starting from the basics.
 
 [Basics:](https://github.com/cliferraren/PySpark/tree/master/Basics)
  1. [Working with CSV](https://github.com/cliferraren/PySpark/blob/master/Basics/Working_with_CSV_file.ipynb)
