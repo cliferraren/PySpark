@@ -14,7 +14,7 @@ Demo Analysis:
  2. [Bigfoot Sightings](https://github.com/cliferraren/PySpark/blob/master/Basics/Bigfoot_Sightings_Analysis.ipynb)
 
 
-I also learn to wrangle with data and build a whole machine learning pipeline to predict Yelp Reviews. This is a introductory Spark in Python codes and to be ready to dive into the world of high performance machine learning! 
+We also wrangled with data and build a whole machine learning pipeline to predict Yelp Reviews. This is a introductory Spark in Python codes and to be ready to dive into the world of high performance machine learning! 
 
 [NLP:](https://github.com/cliferraren/PySpark/tree/master/NLP)
  1. [Count Words Through Tokenization](https://github.com/cliferraren/PySpark/blob/master/NLP/Count_Words.ipynb)
